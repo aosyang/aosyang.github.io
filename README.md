@@ -1,4 +1,5 @@
 # My Projects
+--
 ## Rhino Engine
 C++/C# graphics demo project
 #### Project Features
@@ -15,7 +16,7 @@ C++/C# graphics demo project
 * Post-processing effects
 * Gamma correction
 
-
+--
 ## Automation Assault (Team Project)
 A 3D top-down shooter game built with homemade 3D engine, Hourglass
 #### Personal Contributions
@@ -25,6 +26,7 @@ A 3D top-down shooter game built with homemade 3D engine, Hourglass
 * Level data exporting from Unity scene
 * Wwise audio system integration
 
+--
 ## Roid Rage (Team Project)
 A 2D top-down space action game made with Unity 3D
 #### Personal Contributions
