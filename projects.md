@@ -22,6 +22,14 @@ C++/C# graphics demo project
 * Post-processing effects
 * Gamma correction
 
+#### Screenshots
+![GraphicsProject](/img/GraphicsProject0.png)
+![GraphicsProject](/img/GraphicsProject1.png)
+![GraphicsProject](/img/GraphicsProject2.png)
+
+#### Project Links
+[Download demo executable](https://github.com/aosyang/FSGraphicsProject_Binary/releases/download/v0.1.0-alpha/GraphicsEngine_Demos.zip)
+
 --
 
 ## Automation Assault (Team Project)
@@ -50,5 +58,5 @@ A 2D top-down space action game made with Unity 3D
 ![Roid-Rage](/img/RoidRage2.png)
 ![Roid-Rage](/img/RoidRage3.png)
 
-#### Web play & Download
-[Download](https://aosyang.itch.io/roid-rage)
+#### Project Links
+[Project page](https://aosyang.itch.io/roid-rage) for webplay and download
