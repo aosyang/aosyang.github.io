@@ -1,103 +1,37 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Shiyang Ao&#39;s Project Page by aosyang</title>
+---
+layout: default
+title: Home
+---
 
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/github-light.css">
-    <meta name="viewport" content="width=device-width">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1>Shiyang Ao&#39;s Project Page</h1>
-        <p></p>
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
 
+    <span class="post-date">{{ post.date | date_to_string }}</span>
 
-        <p class="view"><a href="https://github.com/aosyang">View My GitHub Profile</a></p>
+    {{ post.content }}
+  </div>
+  {% endfor %}
+</div>
 
-      </header>
-      <section>
-        <h1>
-<a id="my-projects" class="anchor" href="#my-projects" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>My Projects</h1>
-
-<h2></h2>
-
-<h2>
-<a id="rhino-engine" class="anchor" href="#rhino-engine" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Rhino Engine</h2>
-
-<p>C++/C# graphics demo project</p>
-
-<h4>
-<a id="project-features" class="anchor" href="#project-features" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Project Features</h4>
-
-<ul>
-<li>Forward rendering
-
-<ul>
-<li>Cascaded shadow map</li>
-</ul>
-</li>
-<li>Deferred rendering
-
-<ul>
-<li>Massive amount of dynamic lights</li>
-<li>Point light shadow map</li>
-<li>Screen-space reflection</li>
-</ul>
-</li>
-<li>Skinned animation with blending</li>
-<li>C# level editor embedding C++ engine</li>
-<li>Multithreaded resource loading</li>
-<li>Lighting with normal map</li>
-<li>Post-processing effects</li>
-<li>Gamma correction</li>
-</ul>
-
-<h2></h2>
-
-<h2>
-<a id="automation-assault-team-project" class="anchor" href="#automation-assault-team-project" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Automation Assault (Team Project)</h2>
-
-<p>A 3D top-down shooter game built with homemade 3D engine, Hourglass</p>
-
-<h4>
-<a id="personal-contributions" class="anchor" href="#personal-contributions" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Personal Contributions</h4>
-
-<ul>
-<li>Direct3D 11 render pipeline</li>
-<li>Dynamic lighting manager and shaders</li>
-<li>Collision detection and responese</li>
-<li>Level data exporting from Unity scene</li>
-<li>Wwise audio system integration</li>
-</ul>
-
-<h2></h2>
-
-<h2>
-<a id="roid-rage-team-project" class="anchor" href="#roid-rage-team-project" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Roid Rage (Team Project)</h2>
-
-<p>A 2D top-down space action game made with Unity 3D</p>
-
-<h4>
-<a id="personal-contributions-1" class="anchor" href="#personal-contributions-1" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Personal Contributions</h4>
-
-<ul>
-<li>Prototyped 2D physics-based core gameplay</li>
-<li>Boss battle design and coding</li>
-<li>Visual effect and shader coding (eg. black hole, particle effects)</li>
-</ul>
-      </section>
-      <footer>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
-    </div>
-    <script src="javascripts/scale.fix.js"></script>
-    
-  </body>
-</html>
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>

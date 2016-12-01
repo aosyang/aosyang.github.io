@@ -1,6 +1,0 @@
-{
-  "name": "Shiyang Ao's Project Page",
-  "tagline": "",
-  "body": "# My Projects\r\n--\r\n## Rhino Engine\r\nC++/C# graphics demo project\r\n#### Project Features\r\n* Forward rendering\r\n  * Cascaded shadow map\r\n* Deferred rendering\r\n  * Massive amount of dynamic lights\r\n  * Point light shadow map\r\n  * Screen-space reflection\r\n* Skinned animation with blending\r\n* C# level editor embedding C++ engine\r\n* Multithreaded resource loading\r\n* Lighting with normal map\r\n* Post-processing effects\r\n* Gamma correction\r\n\r\n--\r\n## Automation Assault (Team Project)\r\nA 3D top-down shooter game built with homemade 3D engine, Hourglass\r\n#### Personal Contributions\r\n* Direct3D 11 render pipeline\r\n* Dynamic lighting manager and shaders\r\n* Collision detection and responese\r\n* Level data exporting from Unity scene\r\n* Wwise audio system integration\r\n\r\n--\r\n## Roid Rage (Team Project)\r\nA 2D top-down space action game made with Unity 3D\r\n#### Personal Contributions\r\n* Prototyped 2D physics-based core gameplay\r\n* Boss battle design and coding\r\n* Visual effect and shader coding (eg. black hole, particle effects)\r\n",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
