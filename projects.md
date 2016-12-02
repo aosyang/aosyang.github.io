@@ -5,7 +5,25 @@ permalink: /projects/
 weight: 0
 ---
 
+---
+
+## Automation Assault (Team Project)
+<div style="text-align: right">Sep 2016 - Jan 2017</div>
+A 3D top-down shooter game built with homemade 3D engine, Hourglass
+
+#### Personal Contributions
+* Direct3D 11 render pipeline
+* Dynamic lighting manager and shaders
+* Collision detection and responese
+* Level data exporting from Unity scene
+* Wwise audio system integration
+
+*This project is in progress, download will be available soon*
+
+---
+
 ## Rhino Engine
+<div style="text-align: right">Feb 2016 - May 2017</div>
 C++/C# graphics demo project
 
 #### Project Features
@@ -62,19 +80,8 @@ C++/C# graphics demo project
 
 ---
 
-## Automation Assault (Team Project)
-A 3D top-down shooter game built with homemade 3D engine, Hourglass
-
-#### Personal Contributions
-* Direct3D 11 render pipeline
-* Dynamic lighting manager and shaders
-* Collision detection and responese
-* Level data exporting from Unity scene
-* Wwise audio system integration
-
----
-
 ## Roid Rage (Team Project)
+<div style="text-align: right">Oct 2015 - Dec 2015</div>
 A 2D top-down space action game made with Unity 3D
 
 #### Personal Contributions
