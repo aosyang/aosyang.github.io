@@ -29,7 +29,7 @@ C++/C# graphics demo project
 ![GraphicsProject](/img/GraphicsProject3.png)
 
 #### Project Links
-[Download demo executable](https://github.com/aosyang/FSGraphicsProject_Binary/releases/download/v0.1.0-alpha/GraphicsEngine_Demos.zip)
+[Download demo executable](https://github.com/aosyang/FSGraphicsProject_Binary/releases/download/v0.1.1-alpha/GraphicsEngine_Demos.zip)
 
 --
 
