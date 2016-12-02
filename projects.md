@@ -23,18 +23,39 @@ C++/C# graphics demo project
 * Gamma correction
 
 #### Screenshots (Click to enlarge)
-<a href="/img/GraphicsProject0.png">
-    <img style="float: left;"  src="/img/GraphicsProject0.png" width="350" alt="Cascaded shadow map" />
-</a>
-<a href="/img/GraphicsProject1.png">
-    <img style="float: right;" src="/img/GraphicsProject1.png" width="350" alt="Large amount of lights" />
-</a>
-<a href="/img/GraphicsProject2.png">
-    <img style="float: left;"  src="/img/GraphicsProject2.png" width="350" alt="Screen space reflection" />
-</a>
-<a href="/img/GraphicsProject3.png">
-    <img style="float: right;" src="/img/GraphicsProject3.png" width="350" alt="Top-down fighting game demo" />
-</a>
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="/img/GraphicsProject0.png">
+          <img src="/img/GraphicsProject0.png" alt="Cascaded shadow map" />
+          <p>Cascaded shadow map</p>
+        </a>
+      </td>
+      <td>
+        <a href="/img/GraphicsProject1.png">
+          <img src="/img/GraphicsProject1.png" alt="Large amount of lights" />
+          <p>Large amount of lights</p>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="/img/GraphicsProject2.png">
+          <img src="/img/GraphicsProject2.png" alt="Screen space reflection" />
+          <p>Screen space reflection</p>
+        </a>
+      </td>
+      <td>
+        <a href="/img/GraphicsProject3.png">
+          <img src="/img/GraphicsProject3.png" alt="Top-down fighting game demo" />
+          <p>Top-down fighting game demo</p>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 #### Project Links
 [Download demo executable](https://github.com/aosyang/FSGraphicsProject_Binary/releases/download/v0.1.1-alpha/GraphicsEngine_Demos.zip)
@@ -62,18 +83,34 @@ A 2D top-down space action game made with Unity 3D
 * Visual effect and shader coding (eg. black hole, particle effects)
 
 #### Screenshots (Click to enlarge)
-<a href="/img/RoidRage0.png">
-    <img style="float: left;"  src="/img/RoidRage0.png" width="350" />
-</a>
-<a href="/img/RoidRage1.png">
-    <img style="float: right;" src="/img/RoidRage1.png" width="350" />
-</a>
-<a href="/img/RoidRage2.png">
-    <img style="float: left;"  src="/img/RoidRage2.png" width="350" />
-</a>
-<a href="/img/RoidRage3.png">
-    <img style="float: right;" src="/img/RoidRage3.png" width="350" />
-</a>
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="/img/RoidRage0.png">
+          <img src="/img/RoidRage0.png" />
+        </a>
+      </td>
+      <td>
+        <a href="/img/RoidRage1.png">
+          <img src="/img/RoidRage1.png" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="/img/RoidRage2.png">
+          <img src="/img/RoidRage2.png" />
+        </a>
+      </td>
+      <td>
+        <a href="/img/RoidRage3.png">
+          <img src="/img/RoidRage3.png" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 #### Project Links
 [Project page](https://aosyang.itch.io/roid-rage) for webplay and download
