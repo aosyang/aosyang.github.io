@@ -60,7 +60,7 @@ C++/C# graphics demo project
 #### Project Links
 [Download demo executable](https://github.com/aosyang/FSGraphicsProject_Binary/releases/download/v0.1.1-alpha/GraphicsEngine_Demos.zip)
 
---
+---
 
 ## Automation Assault (Team Project)
 A 3D top-down shooter game built with homemade 3D engine, Hourglass
@@ -72,7 +72,7 @@ A 3D top-down shooter game built with homemade 3D engine, Hourglass
 * Level data exporting from Unity scene
 * Wwise audio system integration
 
---
+---
 
 ## Roid Rage (Team Project)
 A 2D top-down space action game made with Unity 3D
