@@ -24,7 +24,7 @@ A 3D top-down shooter game built with homemade 3D engine, Hourglass
 ---
 
 ## Rhino Engine
-<div style="text-align: right">Feb 2016 - May 2017</div>
+<div style="text-align: right">Feb 2016 - May 2016</div>
 C++/C# graphics demo project
 
 #### Project Features
