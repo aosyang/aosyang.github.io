@@ -12,7 +12,7 @@ gems: [jekyll-paginate,jekyll-gist]
 title:            Shiyang Ao
 tagline:          'Game Programmer Portfolio'
 description:      'Game programmer portfolio site'
-url:              http://hyde.getpoole.com
+url:              https://aosyang.github.io
 baseurl:          /
 
 author:
