@@ -22,11 +22,19 @@ C++/C# graphics demo project
 * Post-processing effects
 * Gamma correction
 
-#### Screenshots
-![GraphicsProject](/img/GraphicsProject0.png)
-![GraphicsProject](/img/GraphicsProject1.png)
-![GraphicsProject](/img/GraphicsProject2.png)
-![GraphicsProject](/img/GraphicsProject3.png)
+#### Screenshots (Click to enlarge)
+<a href="/img/GraphicsProject0.png">
+    <img style="float: left;"  src="/img/GraphicsProject0.png" width="350" alt="Cascaded shadow map" />
+</a>
+<a href="/img/GraphicsProject1.png">
+    <img style="float: right;" src="/img/GraphicsProject1.png" width="350" alt="Large amount of lights" />
+</a>
+<a href="/img/GraphicsProject2.png">
+    <img style="float: left;"  src="/img/GraphicsProject2.png" width="350" alt="Screen space reflection" />
+</a>
+<a href="/img/GraphicsProject3.png">
+    <img style="float: right;" src="/img/GraphicsProject3.png" width="350" alt="Top-down fighting game demo" />
+</a>
 
 #### Project Links
 [Download demo executable](https://github.com/aosyang/FSGraphicsProject_Binary/releases/download/v0.1.1-alpha/GraphicsEngine_Demos.zip)
@@ -53,11 +61,19 @@ A 2D top-down space action game made with Unity 3D
 * Boss battle design and coding
 * Visual effect and shader coding (eg. black hole, particle effects)
 
-#### Screenshots
-![Roid-Rage](/img/RoidRage0.png)
-![Roid-Rage](/img/RoidRage1.png)
-![Roid-Rage](/img/RoidRage2.png)
-![Roid-Rage](/img/RoidRage3.png)
+#### Screenshots (Click to enlarge)
+<a href="/img/RoidRage0.png">
+    <img style="float: left;"  src="/img/RoidRage0.png" width="350" />
+</a>
+<a href="/img/RoidRage1.png">
+    <img style="float: right;" src="/img/RoidRage1.png" width="350" />
+</a>
+<a href="/img/RoidRage2.png">
+    <img style="float: left;"  src="/img/RoidRage2.png" width="350" />
+</a>
+<a href="/img/RoidRage3.png">
+    <img style="float: right;" src="/img/RoidRage3.png" width="350" />
+</a>
 
 #### Project Links
 [Project page](https://aosyang.itch.io/roid-rage) for webplay and download
