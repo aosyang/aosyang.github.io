@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+order: 2
 ---
 
 My name is Shiyang Ao. I'm a game programmer skilled in real-time rendering and gameplay programming.

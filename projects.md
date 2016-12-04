@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: index.html
-weight: 0
+order: 1
 ---
 
 ---
@@ -43,38 +43,48 @@ C++/C# graphics demo project
 
 #### Screenshots
 
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="/img/GraphicsProject0.png" target="_blank">
-          <img src="/img/GraphicsProject0_small.jpg" alt="Cascaded shadow map" />
-          <p>Cascaded shadow map</p>
-        </a>
-      </td>
-      <td>
-        <a href="/img/GraphicsProject1.png" target="_blank">
-          <img src="/img/GraphicsProject1_small.jpg" alt="Large amount of lights" />
-          <p>Large amount of lights</p>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="/img/GraphicsProject2.png" target="_blank">
-          <img src="/img/GraphicsProject2_small.jpg" alt="Screen space reflection" />
-          <p>Screen space reflection</p>
-        </a>
-      </td>
-      <td>
-        <a href="/img/GraphicsProject3.png" target="_blank">
-          <img src="/img/GraphicsProject3_small.jpg" alt="Top-down fighting game demo" />
-          <p>Top-down fighting game demo</p>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<p>
+  <div style="display: inline-block; max-width: 49%">
+    <a href="/img/GraphicsProject0.png" target="_blank">
+      <img src="/img/GraphicsProject0_small.jpg" alt="Cascaded shadow map" />
+      Cascaded shadow map
+    </a>
+  </div>
+  <div style="display: inline-block; max-width: 49%">
+    <a href="/img/GraphicsProject1.png" target="_blank">
+      <img src="/img/GraphicsProject1_small.jpg" alt="Large amount of lights" />
+      <p>Large amount of lights</p>
+    </a>
+  </div>
+</p>
+<p>
+  <div style="display: inline-block; max-width: 49%">
+    <a href="/img/GraphicsProject2.png" target="_blank">
+      <img src="/img/GraphicsProject2_small.jpg" alt="Screen space reflection" />
+      <p>Screen space reflection</p>
+    </a>
+  </div>
+  <div style="display: inline-block; max-width: 49%">
+    <a href="/img/GraphicsProject3.png" target="_blank">
+      <img src="/img/GraphicsProject3_small.jpg" alt="Fighting game demo" />
+      <p>Fighting game demo</p>
+    </a>
+  </div>
+</p>
+<p>
+  <div style="display: inline-block; max-width: 49%">
+    <a href="/img/GraphicsProject4.png" target="_blank">
+      <img src="/img/GraphicsProject4_small.jpg" alt="Refraction shader" />
+      <p>Refraction shader</p>
+    </a>
+  </div>
+  <div style="display: inline-block; max-width: 49%">
+    <a href="/img/GraphicsProject5.png" target="_blank">
+      <img src="/img/GraphicsProject5_small.jpg" alt="Winform level editor" />
+      <p>Winform level editor</p>
+    </a>
+  </div>
+</p>
 
 #### Project Links
 [Download demo executable](https://github.com/aosyang/FSGraphicsProject_Binary/releases/download/v0.1.1-alpha/GraphicsEngine_Demos.zip)
@@ -92,34 +102,27 @@ A 2D top-down space action game made with Unity 3D
 * Visual effect and shader coding (eg. black hole, particle effects)
 
 #### Screenshots
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="/img/RoidRage0.png" target="_blank">
-          <img src="/img/RoidRage0_small.jpg" />
-        </a>
-      </td>
-      <td>
-        <a href="/img/RoidRage1.png" target="_blank">
-          <img src="/img/RoidRage1_small.jpg" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="/img/RoidRage2.png" target="_blank">
-          <img src="/img/RoidRage2_small.jpg" />
-        </a>
-      </td>
-      <td>
-        <a href="/img/RoidRage3.png" target="_blank">
-          <img src="/img/RoidRage3_small.jpg" />
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+
+<div style="display: inline-block; max-width: 49%">
+  <a href="/img/RoidRage0.png" target="_blank">
+    <img src="/img/RoidRage0_small.jpg" />
+  </a>
+</div>
+<div style="display: inline-block; max-width: 49%">
+  <a href="/img/RoidRage1.png" target="_blank">
+    <img src="/img/RoidRage1_small.jpg" />
+  </a>
+</div>
+<div style="display: inline-block; max-width: 49%">
+  <a href="/img/RoidRage2.png" target="_blank">
+    <img src="/img/RoidRage2_small.jpg" />
+  </a>
+</div>
+<div style="display: inline-block; max-width: 49%">
+  <a href="/img/RoidRage3.png" target="_blank">
+    <img src="/img/RoidRage3_small.jpg" />
+  </a>
+</div>
 
 #### Project Links
 [Project page](https://aosyang.itch.io/roid-rage) for webplay and download
