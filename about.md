@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-My name is Shiyang Ao. I'm a game programmer who focus on real-time rendering and gameplay programming.
+My name is Shiyang Ao. I'm a game programmer skilled in real-time rendering and gameplay programming.
 
 # Skills
 
