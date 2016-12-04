@@ -1,5 +1,5 @@
 # Dependencies
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
@@ -10,13 +10,9 @@ gems: [jekyll-paginate,jekyll-gist]
 # Setup
 title:            Shiyang Ao
 tagline:          'Game Programmer Portfolio'
-description:      'Game programmer portfolio site'
+description:      'Game Programmer Portfolio Site'
 url:              https://aosyang.github.io
 baseurl:          /
-
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
 
 paginate:         5
 

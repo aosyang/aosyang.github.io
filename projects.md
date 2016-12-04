@@ -41,20 +41,20 @@ C++/C# graphics demo project
 * Post-processing effects
 * Gamma correction
 
-#### Screenshots (Click to enlarge)
+#### Screenshots
 
 <table>
   <tbody>
     <tr>
       <td>
         <a href="/img/GraphicsProject0.png" target="_blank">
-          <img src="/img/GraphicsProject0.png" alt="Cascaded shadow map" />
+          <img src="/img/GraphicsProject0_small.jpg" alt="Cascaded shadow map" />
           <p>Cascaded shadow map</p>
         </a>
       </td>
       <td>
         <a href="/img/GraphicsProject1.png" target="_blank">
-          <img src="/img/GraphicsProject1.png" alt="Large amount of lights" />
+          <img src="/img/GraphicsProject1_small.jpg" alt="Large amount of lights" />
           <p>Large amount of lights</p>
         </a>
       </td>
@@ -62,13 +62,13 @@ C++/C# graphics demo project
     <tr>
       <td>
         <a href="/img/GraphicsProject2.png" target="_blank">
-          <img src="/img/GraphicsProject2.png" alt="Screen space reflection" />
+          <img src="/img/GraphicsProject2_small.jpg" alt="Screen space reflection" />
           <p>Screen space reflection</p>
         </a>
       </td>
       <td>
         <a href="/img/GraphicsProject3.png" target="_blank">
-          <img src="/img/GraphicsProject3.png" alt="Top-down fighting game demo" />
+          <img src="/img/GraphicsProject3_small.jpg" alt="Top-down fighting game demo" />
           <p>Top-down fighting game demo</p>
         </a>
       </td>
@@ -91,30 +91,30 @@ A 2D top-down space action game made with Unity 3D
 * Boss battle design and coding
 * Visual effect and shader coding (eg. black hole, particle effects)
 
-#### Screenshots (Click to enlarge)
+#### Screenshots
 <table>
   <tbody>
     <tr>
       <td>
         <a href="/img/RoidRage0.png" target="_blank">
-          <img src="/img/RoidRage0.png" />
+          <img src="/img/RoidRage0_small.jpg" />
         </a>
       </td>
       <td>
         <a href="/img/RoidRage1.png" target="_blank">
-          <img src="/img/RoidRage1.png" />
+          <img src="/img/RoidRage1_small.jpg" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="/img/RoidRage2.png" target="_blank">
-          <img src="/img/RoidRage2.png" />
+          <img src="/img/RoidRage2_small.jpg" />
         </a>
       </td>
       <td>
         <a href="/img/RoidRage3.png" target="_blank">
-          <img src="/img/RoidRage3.png" />
+          <img src="/img/RoidRage3_small.jpg" />
         </a>
       </td>
     </tr>
