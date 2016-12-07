@@ -18,7 +18,7 @@ My name is Shiyang Ao. I'm a game programmer skilled in real-time rendering and 
 
 **Projects:** Rapid gameplay prototyping, Hansoft
 
-**Natural Languages:** English, Chinese (Native), Japanese
+**Language Proficiency:** English, Japanese (JLPT N2), Mandarin Chinese (Native)
 
 # Experience
 <p>

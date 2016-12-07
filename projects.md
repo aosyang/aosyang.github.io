@@ -14,7 +14,7 @@ A 3D top-down shooter game built with homemade 3D engine, Hourglass
 #### Personal Contributions
 * Direct3D 11 render pipeline
 * Dynamic lighting manager and shaders
-* Collision detection and responese
+* Collision detection and response
 * Level data exporting from Unity scene
 * Wwise audio system integration
 
