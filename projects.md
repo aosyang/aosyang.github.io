@@ -7,18 +7,71 @@ order: 1
 
 ---
 
-## Automation Assault (Team Project)
+## Automaton Assault (Team Project of 3 Members)
 <div style="text-align: right">Sep 2016 - Jan 2017</div>
-A 3D top-down shooter game built with homemade 3D engine, Hourglass
+Automaton Assault is a 3D top-down shooter game built out of our own 3D engine, Hourglass Engine. The demo is featured with Physically-Based Rendering, dynamic lighting, skinned animation, collision detection, GPU particles, path-finding, behavior tree and Wwise audio system. The engine is also implemented with helpful features such as CPU profiler, debug line/debug text rendering and script to export level from Unity Editor.
 
 #### Personal Contributions
 * Direct3D 11 render pipeline
-* Dynamic lighting manager and shaders
-* Collision detection and response
-* Level data exporting from Unity scene
+  * Mesh rendering
+  * Material and texture manager
+  * Compute shader post-processing
+  * Dynamic lighting manager and shaders
+  * Debug line/text rendering
+  * Frustum culling
+* Game physics
+  * Moving shapes collision detection and response for:
+    * AABB to AABB
+    * Cylinder to cylinder
+    * Cylinder to rotated box 
+  * Ray-box intersection with quadtree accelerated
+* Event trigger and time based trigger
+* CPU profiler
+* Script for easy exporting level data from Unity scene
 * Wwise audio system integration
+  * Integrating sound effects and interective music into game
+* Enemy minions design and implementation (Spider bot and turret)
 
-*This project is in progress, download will be available soon*
+#### Screenshots
+
+<p>
+  <div style="display: inline-block; max-width: 49%">
+    <a href="/img/AutomatonAssault0.png" target="_blank">
+      <img src="/img/AutomatonAssault0_small.jpg" alt="Physically-Based Rendering and dynamic lighting" />
+      <p>PBR and dynamic lighting</p>
+    </a>
+  </div>
+  <div style="display: inline-block; max-width: 49%">
+    <a href="/img/AutomatonAssault1.png" target="_blank">
+      <img src="/img/AutomatonAssault1_small.jpg" alt="Post-processing effect: Bloom" />
+      <p>Post-processing effect: Bloom</p>
+    </a>
+  </div>
+</p>
+<p>
+  <div style="display: inline-block; max-width: 49%">
+    <a href="/img/AutomatonAssault2.png" target="_blank">
+      <img src="/img/AutomatonAssault2_small.jpg" alt="Profiler and debug rendering" />
+      <p>Profiler and debug rendering</p>
+    </a>
+  </div>
+  <div style="display: inline-block; max-width: 49%">
+    <a href="/img/AutomatonAssault3.png" target="_blank">
+      <img src="/img/AutomatonAssault3_small.jpg" alt="Quadtree for ray casting" />
+      <p>Quadtree for ray casting</p>
+    </a>
+  </div>
+</p>
+<p>
+  <div style="display: inline-block; max-width: 49%">
+    <a href="/img/AutomatonAssault4.png" target="_blank">
+      <img src="/img/AutomatonAssault4_small.jpg" alt="Event trigger" />
+      <p>Event trigger</p>
+    </a>
+  </div>
+</p>
+
+*Download will be available soon*
 
 ---
 ---
@@ -47,7 +100,7 @@ C++/C# graphics demo project
   <div style="display: inline-block; max-width: 49%">
     <a href="/img/GraphicsProject0.png" target="_blank">
       <img src="/img/GraphicsProject0_small.jpg" alt="Cascaded shadow map" />
-      Cascaded shadow map
+      <p>Cascaded shadow map</p>
     </a>
   </div>
   <div style="display: inline-block; max-width: 49%">
