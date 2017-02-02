@@ -71,6 +71,15 @@ Automaton Assault is a 3D top-down shooter game built out of our own 3D engine, 
   </div>
 </p>
 
+#### Video
+
+<div class="videowrapper">
+    <!-- Copy & Pasted from YouTube -->
+    <iframe src="https://www.youtube.com/embed/wylUsaEOTbM" frameborder="0" allowfullscreen></iframe>
+</div>
+
+#### Download
+
 *Download will be available soon*
 
 ---
