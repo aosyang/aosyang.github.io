@@ -9,7 +9,7 @@ order: 1
 
 ## Automaton Assault (Team Project of 3 Members)
 <div style="text-align: right">Sep 2016 - Jan 2017</div>
-Automaton Assault is a 3D top-down shooter game built out of our own 3D engine, Hourglass Engine. The demo is featured with Physically-Based Rendering, dynamic lighting, skinned animation, collision detection, GPU particles, path-finding, behavior tree and Wwise audio system. The engine is also implemented with helpful features such as CPU profiler, debug line/debug text rendering and script to export level from Unity Editor.
+Automaton Assault is a 3D top-down shooter game built out of our own 3D engine, Hourglass Engine. The demo is featured with physically-based rendering, dynamic lighting, skinned animation, collision detection, GPU particles, path-finding, behavior tree and Wwise audio system. The engine is also implemented with helpful features such as CPU profiler, debug line/debug text rendering and script to export level from Unity Editor.
 
 #### Personal Contributions
 * Direct3D 11 render pipeline
@@ -79,7 +79,12 @@ Automaton Assault is a 3D top-down shooter game built out of our own 3D engine, 
 
 #### Download
 
-*Download will be available soon*
+[Download demo executable](https://drive.google.com/open?id=0B4P-ffOPPiTVNUpTRUpDaVhUWW8)
+
+*System requirements:*
+
+* Windows 8.1 or above
+* A DirectX 11 compatable device
 
 ---
 ---
