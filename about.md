@@ -22,25 +22,37 @@ My name is Shiyang Ao. I'm a game programmer skilled in real-time rendering and 
 
 # Experience
 <p>
-  Game Developer
+  <b>Game Developer</b>
   <span style="float: right">Dec 2010 - July 2014</span>
 </p>
 <p>
-  2K China (Hangzhou Studio)
+  <b>2K China (Hangzhou Studio)</b>
   <span style="float: right">Hangzhou, China</span>
 </p>
 
-**Project: NBA 2K12 (iPad) / NBA 2K13 (iPhone/iPad)**
+Project: NBA 2K12 (iPad) / NBA 2K13 (iPhone/iPad)
 
 * Implemented mobile-specific touch control mode “One-finger Control”
 * Co-worked on rendering since NBA 2K13, improved graphics by adding lighting model
 * Fixed gameplay related bugs caused by porting works
 
-**Project: Bioshock (iPhone/iPad)**
+Project: Bioshock (iPhone/iPad)
 
 * Co-worked on porting Unreal Engine render pipeline to iOS platform
 * Worked on reproducing materials/effects with mobile implementation of Unreal Engine 3
 * Co-worked on render performance profiling and improvement
+<br/>
+<br/>
+<p>
+  <b>Game Developer</b>
+  <span style="float: right">Oct 2007 - Dec 2008</span>
+</p>
+<p>
+  <b>Kritical Point Studio</b>
+  <span style="float: right">Shanghai/Suzhou, China</span>
+</p>
+
+* Worked on client program of MMO game titles with OGRE / Torque Game Engine.
 
 # Education
 <p>
