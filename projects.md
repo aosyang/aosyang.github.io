@@ -147,13 +147,14 @@ C++/C# graphics demo project
   <div style="display: inline-block; max-width: 49%">
     <a href="/img/GraphicsProject4.png" target="_blank">
       <img src="/img/GraphicsProject4_small.jpg" alt="Refraction shader" />
-      <p>Refraction shader</p>
+      Refraction shader
     </a>
+    (<a href="/img/GraphicsProject_Anim.gif" target="_blank">gif</a>)
   </div>
   <div style="display: inline-block; max-width: 49%">
     <a href="/img/GraphicsProject5.png" target="_blank">
       <img src="/img/GraphicsProject5_small.jpg" alt="Winform level editor" />
-      <p>Winform level editor</p>
+      Winform level editor
     </a>
   </div>
 </p>
