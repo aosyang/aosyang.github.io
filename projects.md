@@ -162,6 +162,24 @@ C++/C# graphics demo project
 #### Project Links
 [Download demo executable](https://github.com/aosyang/FSGraphicsProject_Binary/releases/download/v0.1.1-alpha/GraphicsEngine_Demos.zip)
 
+[Source Code](https://github.com/aosyang/FSGraphicsProject)
+
+---
+---
+
+## Ray Tracer
+A ray tracer implemented with Monte Carlo algorithm
+
+#### Screenshot
+<div style="display: inline-block; max-width: 100%">
+  <a href="/img/RayTracer.png" target="_blank">
+    <img src="/img/RayTracer_small.jpg" />
+  </a>
+</div>
+
+#### Project Links
+[Source Code](https://github.com/aosyang/RayTracerWin)
+
 ---
 ---
 

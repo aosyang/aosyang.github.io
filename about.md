@@ -6,6 +6,9 @@ order: 2
 
 My name is Shiyang Ao. I'm a game programmer skilled in real-time rendering and gameplay programming.
 
+# Resume
+[Download PDF](https://www.dropbox.com/s/74usr7alqkpe3il/ShiyangAo_Resume.pdf?dl=0)
+
 # Skills
 
 **Programming Languages:** C/C++, C#
